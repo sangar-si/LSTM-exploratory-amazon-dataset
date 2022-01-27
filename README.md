@@ -18,7 +18,7 @@ We go with a Sequential model containing 4 LSTM units with dropout between units
 6. Remove stop words
 
 # Metric
-Training accuracy : 87.49%
+Training accuracy : 87.49%  
 Test accuracy : 86%
 
 
